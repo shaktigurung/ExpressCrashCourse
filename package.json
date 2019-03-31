@@ -1,0 +1,14 @@
+{
+  "name": "expresscrashcourse",
+  "version": "1.0.0",
+  "description": "a crash coursh for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shakti gurung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
